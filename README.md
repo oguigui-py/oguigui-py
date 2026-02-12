@@ -13,6 +13,16 @@
 * 🌱 I’m currently learning **Biopython, Omics Technologies & Data Science**
 * 🧪 I love transforming **ATCG** into structured knowledge.
 
+### 🛠️ Tech Stack & Tools
+
+<br/>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py,js,html,css,git,bash,linux,apple,docker,postgres,vscode&theme=dark" />
+</div>
+
+<br/>
+
 ---
 
 <div align="center">
@@ -21,24 +31,6 @@
 
 ---
 
-### 🛠️ Tech Stack & Tools
-
-<div align="center">
-  <img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="center" alt="HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align="center" alt="CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img align="center" alt="JS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-  <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oguigui-py&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oguigui-py&layout=compact&langs_count=8&theme=dracula&hide_border=true" />
-</div>
-
-<br/>
 
 <div align="center">
   <a href="https://www.instagram.com/oguigui10" target="_blank">
